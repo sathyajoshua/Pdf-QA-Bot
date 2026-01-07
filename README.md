@@ -18,11 +18,11 @@ The system answers strictly from the document content and provides source refere
 
 **🛠 Tech Stack**
 
-Python
-OpenAI API
-LangChain
-FAISS
-Streamlit
+- Python
+- OpenAI API
+- LangChain
+- FAISS
+- Streamlit
 
 **📂 Project Structure**
 pdf_qa_bot/
@@ -61,11 +61,11 @@ This app is deployable on Streamlit Cloud with zero backend setup.
 
 **📌 Use Cases**
 
-Internal company document Q&A
-Policy / SOP assistants
-Research paper analysis
-Legal or compliance documents
-Client knowledge base bots
+- Internal company document Q&A
+- Policy / SOP assistants
+- Research paper analysis
+- Legal or compliance documents
+- Client knowledge base bots
 
 **👨‍💻 Author**
 
