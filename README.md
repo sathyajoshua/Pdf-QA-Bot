@@ -1,4 +1,4 @@
-📄 **PDF Q&A Bot (RAG-based)**
+**📄 PDF Q&A Bot (RAG-based)**
 
 An AI-powered application that allows users to upload PDF documents and ask questions.
 The system answers strictly from the document content and provides source references (page numbers) for transparency.
